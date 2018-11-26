@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">mBank</string>
+    <string name="username">მომხმარებელი</string>
+    <string name="password">პაროლი</string>
+    <string name="buttonText">შესვლა</string>
+    <string name="description">This is an autumn bg</string>
+    <string name="nameText">სახელი:</string>
+    <string name="surnameText">გვარი:</string>
+    <string name="genderText">სქესი:</string>
+    <string name="birthdayText">დაბადების დღე:</string>
+    <string name="clientCategoryText">კლიენტის კატეგორია:</string>
+    <string name="telephoneText">ტელეფონი:</string>
+    <string name="addressText">მისამართი:</string>
+    <string name="emailText">ელ-ფოსტა:</string>
+    <string name="profileTabTitle">პროფილი</string>
+    <string name="assetsTabTitle">აქტივები</string>
+    <string name="transactionHistoryTitle">გადახდების ისტორია</string>
+    <string name="cardsTabTitle">ბარათები</string>
+    <string name="loginPasswordAndUsernameEmpty">მომხმარებლის სახელი და პაროლი არ უნდა იყოს 3 სიმბოლოზე ნაკლები</string>
+    <string name="loginPasswordEmpty">პაროლი არ უნდა იყოს 3 სიმბოლოზე ნაკლები</string>
+    <string name="loginUsernameEmpty">მომხმარებლის სახელი არ უნდა იყოს 3 სიმბოლოზე ნაკლები</string>
+    <string name="historyIncome">შემოსავალი</string>
+    <string name="historyOutcome">გასავალი</string>
+    <string name="valid_thru">valid thru</string>
+</resources>
